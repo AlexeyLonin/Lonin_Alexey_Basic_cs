@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// 6.	Написать программу вычисления значения функции y = f(a)
 
  double f(double x)
 {
